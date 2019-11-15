@@ -1,4 +1,4 @@
-# Intro to command line
+
 ## Basics
 Open Terminal: Ctrl+Alt+T, or find it in Applications  
 Most commands: command [options] [args]  
